@@ -1,0 +1,10 @@
+/target
+/out
+/.settings
+/.idea
+/.vscode
+*.log
+*.iml
+.classpath
+.project
+nb-configuration.xml
